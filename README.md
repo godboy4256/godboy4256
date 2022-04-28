@@ -1,16 +1,23 @@
-### Hi there 👋
+ 
 
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
-
-<h1> Hi, I'm Dream Coder Ellie <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
-
+<h1> Hi, I'm Seok Ji Woong The Front-End </h1>
+<img align="right" src="https://user-images.githubusercontent.com/82381946/165726912-676c0050-0701-49f4-8ac0-6077411149ac.jpg" width="300"/>
 <p>
   <em>
     <h3>
     Content Creator at
-      <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
-        드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
+      <p>
+        <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
+         Email : godboy47474@gmail.com , Email : godboy4256@gmail.com 
       </a>
+      </p>
+      
+      <p>
+        <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
+         Email : godboy47474@gmail.com , Email : godboy4256@gmail.com 
+        </a>
+      </p>
+       
     </h3>
   </em>
   <em>
