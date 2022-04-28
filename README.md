@@ -1,18 +1,12 @@
  
 
-<h1>Front-End Developer : Seok Ji Woong</h1>
+<h1>Seok Ji Woong - Front End Developer</h1>
 <img align="left" src="https://user-images.githubusercontent.com/82381946/165726912-676c0050-0701-49f4-8ac0-6077411149ac.jpg" width="300"/>
 <p>
 
-
- 
   <em>
-  <h3>
-    Instructor at 
-    <a href="https://academy.dream-coding.com/">
-      Dream Coding Academy 
-      <img src="https://user-images.githubusercontent.com/1569988/159411473-79b779c5-b91f-4ded-9235-1f187e1ebec2.svg" height="30px"/>
-    </a>
+  <h3 fontStyle="italic">
+      안녕하세요. 프론트엔드 개발자 석지웅입니다.
   </h3>
     </em>
   </em>
