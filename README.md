@@ -1,7 +1,7 @@
  
 
 <h1>Seok Ji Woong - Front End Developer</h1>
-<img align="left" src="https://user-images.githubusercontent.com/82381946/165726912-676c0050-0701-49f4-8ac0-6077411149ac.jpg" width="300"/>
+<img width="250" align="left" src="https://user-images.githubusercontent.com/82381946/165726912-676c0050-0701-49f4-8ac0-6077411149ac.jpg" width="300"/>
 <p>
 
   <em>
@@ -24,66 +24,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-<br/>
-
-<h2>My popular videos</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="2022 웹개발 로드맵 총정리 (공부순서 알려드림) | 올해는 정말 해보자 🚀">
-          <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=wcsVjmHrUQg&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="자바스크립트 배우기전 꼭 봐야할 영상">
-          <img align="center" src="https://img.youtube.com/vi/wcsVjmHrUQg/0.jpg" width="300" alt-text="">
-        </a>
-      </td>
-      <td>
-        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
-        <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg" width="300" alt-text="Git tutorial">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<b><em><a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">More videos...</a></em></b>
-
-<br/>
-<br/>
-
-<h2>My popular courses</h2> 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/react-basic" title="리액트 개념 정리 + 유튜브 클론 코딩 외 실전 프로젝트 완성">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/934247/YHsNXQEYRbOEns6ISYIu_React%20Course%20Thumbnail.png" width="300" alt-text="React Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/typescript" title="타입스크립트 + 객체지향 프로그래밍 마스터">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/CCujpdfRGCa48lfjCmyg_TypeScript%20Course%20Thumbnail%20%284%29.png" width="300" alt-text="TypeScript Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/node" title="노드로 배우는 백엔드 A-Z (익스프레스, 데이터베이스, 트위터 클론코딩)">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/1375371/7iZPtc2VQpGko36mQlZR_thumbnail.png" width="300" alt-text="NodeJS Course">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<b><em><a href="https://academy.dream-coding.com">Study with me!</a></em></b>
-
----
-
-<p align="center">
-  <a href="https://github.com/dream-ellie" title="GitHub Dream Ellie">
-    <img src="https://img.shields.io/github/followers/dream-ellie?label=follow&style=social" alt-text="GitHub Dream Ellie" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="드림코딩 by 엘리">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
-  </a>
-</p>
