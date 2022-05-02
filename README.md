@@ -1,8 +1,6 @@
  
 
 <h1>Seok Ji Woong - Front End Developer</h1>
-<img width="250" align="left" src="https://user-images.githubusercontent.com/82381946/165726912-676c0050-0701-49f4-8ac0-6077411149ac.jpg" width="300"/>
-<p>
 
   <em>
   <h3 fontStyle="italic">
