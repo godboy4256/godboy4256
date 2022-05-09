@@ -9,7 +9,7 @@
 
 [👋 Introduction](https://complex-somersault-3fd.notion.site/63d3e1c894484a8cb5c86e7c9cdd04fe)<br/>
 [👨🏻‍💻 &nbsp;My Blog](https://complex-somersault-3fd.notion.site/63d3e1c894484a8cb5c86e7c9cdd04fe)<br/>
-[📒 Tech Note](https://complex-somersault-3fd.notion.site/63d3e1c894484a8cb5c86e7c9cdd04fe)
+[📒 Tech Note](https://complex-somersault-3fd.notion.site/My-Tech-Blog-Note-ee1eb089b08e415d96b04c3137f3be57)
  
 <br />
 
