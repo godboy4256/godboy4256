@@ -1,9 +1,9 @@
  
 
-<h1>Seok Ji Woong - Front End Developer</h1>
+<h1>DollPin! - Front End Developer</h1>
 <h3>
  <em>
-  Hello, I'm Seok Ji-woong, a front-end developer.
+  Hello, I'm DollPin!, a front-end developer.
  </em>
 </h3>
 
