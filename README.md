@@ -1,6 +1,6 @@
  
 
-<h1>DollPin! - Front End Developer</h1>
+<h1>Dolphin! - Front End Developer</h1>
 <h3>
  <em>
   Hello, I'm DollPin!, a front-end developer.
