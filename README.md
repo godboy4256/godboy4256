@@ -2,12 +2,6 @@
 
 <h1>Seok Ji Woong - Front End Developer</h1>
 
-[👋 Introduction](https://complex-somersault-3fd.notion.site/63d3e1c894484a8cb5c86e7c9cdd04fe)<br/>
-[👨🏻‍💻 &nbsp;My Notion](https://complex-somersault-3fd.notion.site/Ji-Woong-Notion-3e5a27a2634d4e839ac188f4070bfc9e)<br/>
-[📒 Tech Note](https://complex-somersault-3fd.notion.site/My-Tech-Blog-Note-ee1eb089b08e415d96b04c3137f3be57)
- 
-<br />
-
 <h2> My tech stack 📚 </h2>
 <div style="display:flex;flex-wrap:wrap">
  <img src="https://img.shields.io/badge/html5-E34F26?&logo=html5&logoColor=white"> 
