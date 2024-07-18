@@ -16,9 +16,3 @@
  <img src="https://img.shields.io/badge/Apollo Client-3E22BA?&logo=Apollo GraphQL&logoColor=white">
  <img src="https://img.shields.io/badge/Emotion Style Component-E30098?&logo=Emotion&logoColor=white">
 </div>
-
-&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godboy4256&layout=compact&show_icons=true)
-<br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godboy4256&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
