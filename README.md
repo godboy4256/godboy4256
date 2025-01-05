@@ -1,6 +1,6 @@
  
 
-<h1>Seok Ji Woong - Front End Developer</h1>
+<h1>Seok Ji Woong - Web Developer</h1>
 
 <h2> My tech stack 📚 </h2>
 <div style="display:flex;flex-wrap:wrap">
